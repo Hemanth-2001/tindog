@@ -1,2 +1,1 @@
-# tindog 
-Here you can find your lovable dogs
+TinDog Starting Files
