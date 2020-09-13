@@ -116,7 +116,7 @@ h2{
 .icon-social:hover{
     color: #ff4c68;
 }
-@media (max-width: 900px) {
+@media (max-width: 1080px) {
     .iphone{
         position: static;
         transform: rotate(0deg);
